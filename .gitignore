@@ -133,3 +133,6 @@ dmypy.json
 
 # ML Datasets
 datasets/
+
+# Logs
+*.v2
