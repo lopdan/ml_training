@@ -136,3 +136,7 @@ datasets/
 
 # Logs
 *.v2
+my_logs/
+
+# Models
+*.h5
